@@ -22,13 +22,13 @@ let comments=[
     },
     {
         id:uuid(),
-        name:'amit',
-        comment:'Its raining here'
+        name:'abdhc',
+        comment:'Its raining'
     },
     {
         id:uuid(),
-        name:'rishi',
-        comment:'gym jaao body banao, gym jaao body banao'
+        name:'test',
+        comment:'enter your comment here'
     }
 ];
 
